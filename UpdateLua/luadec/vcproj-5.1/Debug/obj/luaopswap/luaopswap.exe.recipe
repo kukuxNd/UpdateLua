@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>F:\job\UpdateLua\UpdateLua\luadec\vcproj-5.1\Debug\bin\luadll.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>F:\job\UpdateLua\UpdateLua\luadec\vcproj-5.1\Debug\bin\lua.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>F:\job\UpdateLua\UpdateLua\luadec\vcproj-5.1\Debug\bin\luac.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>F:\job\UpdateLua\UpdateLua\luadec\vcproj-5.1\Debug\bin\luadec.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>F:\job\UpdateLua\UpdateLua\luadec\vcproj-5.1\Debug\bin\luaopswap.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

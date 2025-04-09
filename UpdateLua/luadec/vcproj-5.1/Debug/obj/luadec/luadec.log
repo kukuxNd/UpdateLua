@@ -1,0 +1,7 @@
+﻿  generating srcversion.h using "git log -n 1 --format=format:%%h"
+  895d923
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  luadec.c
+  LINK : 没有找到 F:\job\UpdateLua\UpdateLua\luadec\vcproj-5.1\Debug\bin\luadec.exe 或上一个增量链接没有生成它；正在执行完全链接
+decompile.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  luadec.vcxproj -> F:\job\UpdateLua\UpdateLua\luadec\vcproj-5.1\Debug\bin\luadec.exe

@@ -1,0 +1,5 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  luareplace.c
+luareplace.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  luareplace.vcxproj -> F:\job\UpdateLua\UpdateLua\luadec\vcproj-5.1\Debug\bin\luareplace.exe

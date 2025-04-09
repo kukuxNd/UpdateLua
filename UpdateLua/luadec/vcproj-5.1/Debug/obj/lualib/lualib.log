@@ -1,0 +1,36 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  lzio.c
+  lvm.c
+  lundump.c
+  ltm.c
+  ltablib.c
+  ltable.c
+  lstrlib.c
+  lstring.c
+  lstate.c
+  lparser.c
+  loslib.c
+  lopcodes.c
+  lobject.c
+  loadlib.c
+  lmem.c
+  lmathlib.c
+  llex.c
+  liolib.c
+  linit.c
+  lgc.c
+  正在生成代码...
+  正在编译...
+  lfunc.c
+  ldump.c
+  ldo.c
+  ldebug.c
+  ldblib.c
+  lcode.c
+  lbaselib.c
+  lauxlib.c
+  lapi.c
+  正在生成代码...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1545,5): warning MSB8012: TargetPath(F:\job\UpdateLua\UpdateLua\luadec\vcproj-5.1\Debug\bin\lualib.lib) 与 Library 的 OutputFile 属性值(F:\job\UpdateLua\UpdateLua\luadec\vcproj-5.1\Debug\bin\liblua51.lib)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1547,5): warning MSB8012: TargetName(lualib) 与 Library 的 OutputFile 属性值(liblua51)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Lib.OutputFile) 中指定的值匹配。
+  lualib.vcxproj -> F:\job\UpdateLua\UpdateLua\luadec\vcproj-5.1\Debug\bin\lualib.lib

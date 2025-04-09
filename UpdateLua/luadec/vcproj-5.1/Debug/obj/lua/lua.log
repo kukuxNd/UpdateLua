@@ -1,0 +1,4 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  lua.c
+lua.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  lua.vcxproj -> F:\job\UpdateLua\UpdateLua\luadec\vcproj-5.1\Debug\bin\lua.exe
