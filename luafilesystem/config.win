@@ -1,0 +1,8 @@
+LUA_PATH=F:/job/UpdateLua/lua-5.4.7/lua-5.4.7
+LUA_LIBDIR=$(LUA_PATH)/src
+LUA_INCDIR=$(LUA_PATH)/src
+LUA_LIB=lua54
+
+CC=x86_64-w64-mingw32-gcc
+CFLAGS=-O2 -Wall -DWIN32 -DLUA_BUILD_AS_DLL -m32
+LIBS=-L$(LUA_LIBDIR) -l$(LUA_LIB) -m32

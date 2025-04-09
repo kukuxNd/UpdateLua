@@ -1,0 +1,17 @@
+# Makefile for Windows
+
+include config.win
+
+SRCS= src/lfs.c
+OBJS= src/lfs.o
+
+all: src/lfs.dll
+
+src/lfs.o: $(SRCS)
+	$(CC) -c $(CFLAGS) -I$(LUA_INCDIR) -o src/lfs.o src/lfs.c
+
+src/lfs.dll: src/lfs.o
+	$(CC) -shared -o src/lfs.dll src/lfs.o $(LIBS)
+
+clean:
+	del src\*.o src\*.dll

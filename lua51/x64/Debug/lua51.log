@@ -1,0 +1,40 @@
+﻿  pch.cpp
+  lapi.c
+  lauxlib.c
+  lbaselib.c
+  lcode.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+F:\job\UpdateLua\lua-5.1.5\lua-5.1.5\src\lgc.c(288,56): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  linit.c
+  liolib.c
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+  lobject.c
+  lopcodes.c
+  loslib.c
+  lparser.c
+  正在生成代码...
+  正在编译...
+  lstate.c
+  lstring.c
+  lstrlib.c
+  ltable.c
+F:\job\UpdateLua\lua-5.1.5\lua-5.1.5\src\ltable.c(323,5): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+F:\job\UpdateLua\lua-5.1.5\lua-5.1.5\src\ltable.c(376,5): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  ltablib.c
+  ltm.c
+  lundump.c
+  lvm.c
+  lzio.c
+  print.c
+  正在生成代码...
+  dllmain.cpp
+    正在创建库 F:\job\UpdateLua\x64\Debug\lua51.lib 和对象 F:\job\UpdateLua\x64\Debug\lua51.exp
+  lua51.vcxproj -> F:\job\UpdateLua\x64\Debug\lua51.dll

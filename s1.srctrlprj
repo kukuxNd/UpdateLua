@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <source_groups>
+        <source_group_f5800710-234c-41fe-9571-1f905d30963a>
+            <compiler_flags>
+                <compiler_flag>-fms-extensions</compiler_flag>
+                <compiler_flag>-fms-compatibility</compiler_flag>
+                <compiler_flag>-fms-compatibility-version=19</compiler_flag>
+            </compiler_flags>
+            <cpp_standard>c++14</cpp_standard>
+            <cross_compilation>
+                <target>
+                    <abi>unknown</abi>
+                    <arch>x86_64</arch>
+                    <sys>windows</sys>
+                    <vendor>pc</vendor>
+                </target>
+                <target_options_enabled>1</target_options_enabled>
+            </cross_compilation>
+            <name>C++ Source Group</name>
+            <pch_flags>
+                <use_compiler_flags>1</use_compiler_flags>
+            </pch_flags>
+            <source_extensions>
+                <source_extension>.cpp</source_extension>
+                <source_extension>.cxx</source_extension>
+                <source_extension>.cc</source_extension>
+                <source_extension>.c</source_extension>
+            </source_extensions>
+            <source_paths>
+                <source_path>lua-5.4.7/src</source_path>
+            </source_paths>
+            <status>enabled</status>
+            <type>C++ Source Group</type>
+        </source_group_f5800710-234c-41fe-9571-1f905d30963a>
+    </source_groups>
+    <version>8</version>
+</config>
